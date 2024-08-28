@@ -1,7 +1,7 @@
-# GitHub User Search
+# GitHub Search
 
 ## Visão Geral
-GitHub User Search é um aplicativo móvel desenvolvido em Flutter para simplificar a busca e visualização de informações de usuários do GitHub de maneira intuitiva e eficiente.
+GitHub Search é um aplicativo móvel desenvolvido em Flutter para simplificar a busca e visualização de informações de usuários do GitHub de maneira intuitiva e eficiente.
 
 ## Funcionalidades Principais
 1. **Busca de Usuários:** Permite que os usuários pesquisem perfis do GitHub pelo nome de usuário, exibindo informações básicas como foto de perfil, nome, login e localização diretamente na tela principal.
